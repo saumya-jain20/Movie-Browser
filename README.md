@@ -105,8 +105,8 @@ How to Run the Application
 ---
 
 Submission
-GitHub Link: 
-Vercel Link: 
+GitHub Link: https://github.com/saumya-jain20/Movie-Browser
+Vercel Link: https://movie-browser-swart.vercel.app/
 
 ---
 
